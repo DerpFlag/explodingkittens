@@ -1,0 +1,9 @@
+# Local audit reports and opening notes are kept on this computer.
+/Audit/
+/START-HERE.txt
+.DS_Store
+Thumbs.db
+.vercel/
+.env
+.env.*
+*.log
